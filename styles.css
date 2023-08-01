@@ -1,0 +1,31 @@
+.Header {
+    text-align: center
+}
+
+.Right {
+    background-color: aquamarine;
+    width: 30%;
+    padding: 15px;
+    text-align: center;
+    height: 200px;
+    ;
+}
+
+.Left {
+    background-color: blueviolet;
+    width: 70%;
+    padding: 15px;
+    text-align: center;
+    padding-top: 30px;
+    height: 200px;
+
+}
+
+.Footer {
+    background-color: rgb(43, 226, 141);
+    width: 70%;
+    padding: 15px;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 30%
+}
